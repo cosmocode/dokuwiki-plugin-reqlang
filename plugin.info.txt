@@ -1,0 +1,7 @@
+base   reqlang
+author Andreas Gohr
+email  dokuwiki@cosmocode.de
+date   2021-11-01
+name   reqlang plugin
+desc   Switch the interface language according to the accept-language request header
+url    https://www.dokuwiki.org/plugin:reqlang
